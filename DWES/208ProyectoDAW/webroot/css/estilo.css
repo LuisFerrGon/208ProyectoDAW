@@ -25,6 +25,11 @@ h2{
     color: var(--color3);
     text-align: center;
 }
+main{
+    a:link, a:visited, a:hover, a:active{
+        color: var(--color3);
+    } 
+}
 nav{
     display: flex;
     flex-direction: column;
